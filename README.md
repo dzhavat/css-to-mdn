@@ -10,6 +10,10 @@ VS Code extension that lets you open the MDN docs of a CSS property.
   * `.sass`
   * `.scss`
 
+## Demo
+
+![demo](demo.gif)
+
 ## Credit
 
 The data used for this extension is from [MDN](https://github.com/mdn/data).
