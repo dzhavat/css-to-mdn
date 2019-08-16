@@ -1,4 +1,4 @@
-# CSS to MDN
+# CSS to MDN ([link](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-to-mdn))
 
 VS Code extension that lets you open the MDN docs of a CSS property.
 
