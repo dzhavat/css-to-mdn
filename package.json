@@ -1,25 +1,28 @@
 {
 	"name": "css-to-mdn",
-	"displayName": "css-to-mdn",
+	"displayName": "CSS to MDN",
 	"description": "Open the MDN docs of a CSS property.",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.37.0"
+		"vscode": "^1.36.0"
 	},
 	"categories": [
-		"Other"
+		"Other",
+		"Programming Languages"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onLanguage:css",
+		"onLanguage:less",
+		"onLanguage:sass",
+		"onLanguage:scss"
 	],
+	"license": "MIT",
 	"main": "./out/extension.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
-			}
-		]
+	"contributes": {},
+	"publisher": "dzhavat",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dzhavat/css-to-mdn"
 	},
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
