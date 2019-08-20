@@ -1,6 +1,6 @@
 # Change Log
 
-## 0.1.2 (2019-08-17)
+## 0.1.2 (2019-08-20)
 
 * Add support for unsaved files
 
