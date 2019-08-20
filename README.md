@@ -5,10 +5,10 @@ VS Code extension that lets you open the MDN docs of a CSS property.
 ## Features
 
 * Works with the following file types:
-  * `.css`
-  * `.less`
-  * `.sass`
-  * `.scss`
+  * `CSS`
+  * `Less`
+  * `Sass`
+  * `Scss`
 
 ## Demo
 
