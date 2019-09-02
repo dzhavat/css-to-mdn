@@ -17,6 +17,7 @@
 		"onLanguage:scss"
 	],
 	"license": "MIT",
+	"icon": "images/icon.png",
 	"main": "./out/extension.js",
 	"contributes": {},
 	"publisher": "dzhavat",
