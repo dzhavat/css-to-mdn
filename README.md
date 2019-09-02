@@ -12,7 +12,7 @@ VS Code extension that lets you open the MDN docs of a CSS property.
 
 ## Demo
 
-![demo](demo.gif)
+![demo](images/demo.gif)
 
 ## Credit
 
