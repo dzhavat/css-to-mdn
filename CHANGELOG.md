@@ -2,7 +2,7 @@
 
 ## 0.1.3 (2019-09-02)
 
-* Add icon for marketplate
+* Add icon for marketplace
 
 ## 0.1.2 (2019-08-20)
 
