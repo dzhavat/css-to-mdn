@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.3 (2019-09-02)
+
+* Add icon for marketplace
+
 ## 0.1.2 (2019-08-20)
 
 * Add support for unsaved files
