@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.1.5 (2020-01-22)
+
+### Deprecation
+
+The extension is now **deprecated** because VS Code supports the functionality natively.
+
+It will also be **removed** completely from the Marketplace after five VS Code releases.
+
+The current VS Code release is 1.41.1.
+
 ## 0.1.4 (2019-09-02)
 
 * Update icon for marketplace

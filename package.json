@@ -1,6 +1,6 @@
 {
 	"name": "css-to-mdn",
-	"displayName": "CSS to MDN",
+	"displayName": "CSS to MDN (deprecated)",
 	"description": "Open the MDN docs of a CSS property.",
 	"version": "0.1.4",
 	"engines": {
