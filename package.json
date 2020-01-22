@@ -2,7 +2,7 @@
 	"name": "css-to-mdn",
 	"displayName": "CSS to MDN (deprecated)",
 	"description": "Open the MDN docs of a CSS property.",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"engines": {
 		"vscode": "^1.36.0"
 	},
