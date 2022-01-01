@@ -14,7 +14,7 @@ As of [v1.38](https://code.visualstudio.com/updates/v1_38), VS Code supports the
 
 ---
 
-# CSS to MDN ([link](https://marketplace.visualstudio.com/items?itemName=dzhavat.css-to-mdn))
+# CSS to MDN
 
 VS Code extension that lets you open the MDN docs of a CSS property.
 
